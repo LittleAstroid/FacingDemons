@@ -1,0 +1,5 @@
+Somethings need to be accessed from all modules. Create a gamestate file in which all relevant information is kept.
+Then create an update() function to update it everytime player does an action. This way, different modules can
+access variables and objects in other modules without circular referencing.
+
+gamestate file must be wiped everytime the game starts.

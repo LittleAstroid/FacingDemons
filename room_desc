@@ -1,0 +1,22 @@
+BED_START
+You struggle to breathe. You lay awake on your bed.
+Your torso contracting and expanding rapidly. Thoughts
+of Imminent Death fill your mind to the brim. You
+rapidly sit up on your bed. You need to go get some air.
+Your floor stares at you menacingly and you hesitantly
+let your feet touch it.
+BED_END
+
+BEDROOM_START
+You look around at your bedroom. The blinds are taped shut
+to the wall. There are cans and bottles littered throughout
+the floor. The door takes you to the corridor. Where you can
+access other rooms. Despite everything, you feel safe in here.
+BEDROOM_END
+
+CORRIDOR_START
+The narrowness of the corridor makes your breathing even harder,
+its darkness, your panic even more intense. You look around and
+you are certain that you can see red eyes in the shadows. The panic
+sets in harder. You close your eyes as you walk.
+CORRIDOR_END
